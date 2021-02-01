@@ -1,0 +1,7 @@
+.ContactData {
+  margin: 20px auto;
+  width: 80%;
+  text-align: center;
+}
+
+@media(min-)
